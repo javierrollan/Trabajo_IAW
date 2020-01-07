@@ -1,2 +1,5 @@
-# Trabajo_IAW
-Trabajo para IAW de un tema de ámbito informático
+# Trabajo IAW
+
+Trabajo para __IAW__ de un tema de ámbito informático
+
+Realizado por Javier Rollán Blanco.
